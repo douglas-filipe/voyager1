@@ -1,2 +1,3 @@
 modificando arquivo
 duração da viagem: 08 dias  
+orbitas lunares: 30
